@@ -1,20 +1,20 @@
-# Privacy Policy
+PRIVACY POLICY
 
-**Last Updated: [Insert Date]**
+Last Updated: [24-March-2025]
 
-[Your App Name] ("we," "our," or "us") operates and provides services through our mobile application. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our application.
+     TubeDesk! We operates and provides services through our mobile application. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our application.
 
-## 1. Information We Collect
+1. Information We Collect
 
 We may collect and process the following types of data:
 
-- **Personal Information:** Name, email address, phone number, or other details you provide.
-- **Usage Data:** Information about how you interact with our app, such as features used and time spent.
-- **Device Information:** Information about your device, including IP address, device model, OS version, and unique identifiers.
-- **Location Data:** If you grant permission, we may collect your location for certain features.
-- **Firebase & Third-Party Data:** We may collect data via Firebase or other third-party services for authentication, analytics, and crash reporting.
+- Personal Information:** Name, email address, phone number, or other details you provide.
+- Usage Data:** Information about how you interact with our app, such as features used and time spent.
+- Device Information:** Information about your device, including IP address, device model, OS version, and unique identifiers.
+- Location Data:** If you grant permission, we may collect your location for certain features.
+- Firebase & Third-Party Data:** We may collect data via Firebase or other third-party services for authentication, analytics, and crash reporting.
 
-## 2. How We Use Your Information
+2. How We Use Your Information
 
 We use the collected information for the following purposes:
 
@@ -24,40 +24,38 @@ We use the collected information for the following purposes:
 - To send important updates, notifications, or promotional content (if consented).
 - To comply with legal requirements.
 
-## 3. Sharing Your Information
+3. Sharing Your Information
 
 We do not sell or rent your personal data. However, we may share your information with:
 
-- **Service Providers:** Third-party vendors assisting in app functionality (e.g., Firebase, Google Analytics, AdMob, etc.).
-- **Legal Compliance:** When required by law, regulation, or legal processes.
+- Service Providers:** Third-party vendors assisting in app functionality (e.g., Firebase, Google Analytics, AdMob, etc.).
+- Legal Compliance:** When required by law, regulation, or legal processes.
 
-## 4. Data Security
+4. Data Security
 
 We implement reasonable security measures to protect your information. However, no method of transmission over the internet is 100% secure. We cannot guarantee absolute security.
 
-## 5. Your Choices & Rights
+5. Your Choices & Rights
 
-- **Access & Update:** You can review and update your personal data within the app settings.
-- **Permissions:** You can enable or disable permissions (e.g., location, notifications) through your device settings.
-- **Opt-Out:** You can opt out of personalized ads by modifying your device settings.
+- Access & Update:** You can review and update your personal data within the app settings.
+- Permissions:** You can enable or disable permissions (e.g., location, notifications) through your device settings.
+- Opt-Out:** You can opt out of personalized ads by modifying your device settings.
 
-## 6. Children's Privacy
+6. Children's Privacy
 
 Our app is not intended for children under 13. We do not knowingly collect data from children. If we become aware of such data collection, we will take immediate action to remove it.
 
-## 7. Changes to This Privacy Policy
+7. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. Any changes will be posted here with the updated date.
 
-## 8. Contact Us
+8. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email:** [Your Email]  
-**Website:** [Your Website]  
-**Support Contact:** [Your Support Contact]
+Email: raj2902patel@gmail.com    
+Support Contact: 9104549126
 
----
 
-**By using our app, you agree to the terms of this Privacy Policy.**
+By using our app, you agree to the terms of this Privacy Policy.
 
